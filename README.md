@@ -8,7 +8,7 @@ Why the name?  A Chameleon blends into it's surroundings, and uses a sticky tong
 ----------
 IF YOU'RE READING NOTHING ELSE, THEN *PLEASE* READ THIS!!!
 * TURN OFF QUIT CONFIRMATION DIALOG IN UTORRENT!
-* GO TO ADVANCED OPTIONS (CMD-OPTION-,) AND TURN OFF GRACEFUL SHUTDOWN!!!
+* GO TO ADVANCED OPTIONS (CMD-OPTION-,) AND TURN OFF GRACEFUL SHUTDOWN!
 ----------
 
 PLEASE NOTE: This is a slight modification of code, and based almost entirely on https://forum.utorrent.com/viewtopic.php?pid=654898 by Jack0817 at 2012-04-16 19:42:30.
