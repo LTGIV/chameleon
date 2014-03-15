@@ -7,7 +7,7 @@ Why the name?  A Chameleon blends into it's surroundings, and uses a sticky tong
 
 --
 
-IF YOU'RE READING NOTHING ELSE, THEN *PLEASE* READ THIS!!!
+**IF YOU'RE READING NOTHING ELSE, THEN *PLEASE* READ THIS!!!**
 
 * Turn off quit confirmation dialog in utorrent!
 * Go to advanced options (cmd-option-,) and turn off graceful shutdown!
