@@ -5,11 +5,14 @@ OSX AppleScript that maintains a persistent VPN connection through Viscosity, an
 
 Why the name?  A Chameleon blends into it's surroundings, and uses a sticky tongue to retrieve objects.  I'd like to think that similar is happening here with blending into network surroundings, and using a sticky/persistent connection to retrieve objects.
 
-----------
+--
+
 IF YOU'RE READING NOTHING ELSE, THEN *PLEASE* READ THIS!!!
+
 * Turn off quit confirmation dialog in utorrent!
 * Go to advanced options (cmd-option-,) and turn off graceful shutdown!
-----------
+
+--
 
 PLEASE NOTE: This is a slight modification of code, and based almost entirely on https://forum.utorrent.com/viewtopic.php?pid=654898 by Jack0817 at 2012-04-16 19:42:30.
 
