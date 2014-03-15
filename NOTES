@@ -1,0 +1,11 @@
+Based almost entirely on https://forum.utorrent.com/viewtopic.php?pid=654898 by Jack0817 at 2012-04-16 19:42:30
+Code update is for handling Viscosity, instead of System Events-based VPN via OSX.
+
+NOTES/TODO (I keep telling myself that at some point, I'll come back and add in OSX notifications, and other features...)
+
+Need Cocoa-AppleScript Applet in order to send notifications from AppleScript to OSX Notifications Center: http://macscripter.net/viewtopic.php?id=39189
+
+If you want to remove applications from notifications, check http://stackoverflow.com/questions/11993145/remove-application-from-notification-center
+--tell application "System Events"
+--	get properties
+--end tell
